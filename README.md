@@ -11,10 +11,6 @@ This project is a clone of the [UsabilityHub](https://www.usabilityhub.com/) web
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-You can check out a live demo of the project at [https://your-username.github.io/usabilityhub-clone](https://your-username.github.io/usabilityhub-clone).
-
 ## Features
 
 - Replication of UsabilityHub's homepage layout.
